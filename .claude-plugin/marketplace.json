@@ -1,0 +1,16 @@
+{
+  "name": "confluence-cli-marketplace",
+  "description": "Claude Code skills for Confluence CLI",
+  "owner": {
+    "name": "Dhaval Savalia",
+    "email": "hello@dhavalsavalia.com"
+  },
+  "plugins": [
+    {
+      "name": "confluence-cli",
+      "source": ".",
+      "description": "Skills for working with Confluence pages via CLI",
+      "category": "development"
+    }
+  ]
+}

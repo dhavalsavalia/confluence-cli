@@ -1,0 +1,18 @@
+{
+  "name": "confluence-cli",
+  "description": "Claude Code skills for Confluence CLI - search, read, create, and edit Confluence pages",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dhaval Savalia"
+  },
+  "homepage": "https://github.com/dhavalsavalia/confluence-cli",
+  "repository": "https://github.com/dhavalsavalia/confluence-cli",
+  "license": "MIT",
+  "keywords": [
+    "confluence",
+    "wiki",
+    "atlassian",
+    "cli",
+    "pages"
+  ]
+}
